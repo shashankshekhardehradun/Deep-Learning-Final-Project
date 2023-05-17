@@ -8,4 +8,4 @@ The MELD is an dataset used to emotion classification in conversation. Itcontain
 An example dialog in the MELD dataset [[1](https://arxiv.org/pdf/1810.02508.pdf)]. For this project we have only considered predicted the emotions using 2 modalities - text and speech.
 <br>
 
-![image.png](attachment:image.png)
+![image](https://github.com/shashankshekhardehradun/Deep-Learning-Final-Project/assets/36584023/5e58d63a-fcdf-457d-b3c7-65813c16b28b)
