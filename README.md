@@ -1,4 +1,4 @@
-# Deep-Learning-Final-Project
+# Multimodal Deep Learning for Emotion Recognition
 
 Dataset Used - [MELD: A Multimodal Multi-Party Dataset for Emotion Recognition in Conversation](https://arxiv.org/pdf/1810.02508.pdf)
 <br>
